@@ -2,7 +2,9 @@
 convert files to utf8
 
 on MacOS:
+
 brew install libmagic
+
 pip3 install filemagic
 
 to run it:
