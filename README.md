@@ -14,3 +14,17 @@ to run it:
 ```
 
 the output file will be `a.srt_output`
+
+==============================
+
+bash version
+
+on ubuntu:
+
+apt-get install iconv
+
+```
+./srt_convert.sh a.srt
+```
+
+the output file will be `a_out.srt`
